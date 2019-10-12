@@ -1,0 +1,12 @@
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.exe.config
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.exe
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.pdb
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.csprojAssemblyReference.cache
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic_Lights.Form1.resources
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic_Lights.Properties.Resources.resources
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.csproj.GenerateResource.cache
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.csproj.CopyComplete
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.exe
+C:\Users\AKDOGAN\source\repos\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.pdb
